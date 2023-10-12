@@ -3,3 +3,8 @@ h1{
     color: red;
     shadow: 2px solid yellow;
 }
+body{
+    background-color: black;
+    margin: 0px;
+    padding: 0;
+}
